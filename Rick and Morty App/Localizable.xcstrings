@@ -1,0 +1,117 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "**Air Date:**  %@" : {
+
+    },
+    "**Dimension:**  %@" : {
+
+    },
+    "**Episode:**  %@" : {
+
+    },
+    "**Name:**  %@" : {
+
+    },
+    "**Type:**  %@" : {
+
+    },
+    "%@" : {
+
+    },
+    "Born in:" : {
+
+    },
+    "Characters" : {
+
+    },
+    "characterTab" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Characters List"
+          }
+        }
+      }
+    },
+    "Episodes" : {
+
+    },
+    "episodeTab" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Episodes"
+          }
+        }
+      }
+    },
+    "Loading..." : {
+
+    },
+    "Locations" : {
+
+    },
+    "locationTab" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Locations"
+          }
+        }
+      }
+    },
+    "Name:" : {
+
+    },
+    "noResult" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No results :("
+          }
+        }
+      }
+    },
+    "searchCharacter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search by name"
+          }
+        }
+      }
+    },
+    "There are no locations in this %@" : {
+
+    },
+    "titleApp" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rick And Morty"
+          }
+        }
+      }
+    },
+    "Uuups!" : {
+
+    }
+  },
+  "version" : "1.0"
+}
